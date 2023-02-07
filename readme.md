@@ -1,2 +1,2 @@
-Hello Git
-I Hate covid
+hey git
+bye covid
